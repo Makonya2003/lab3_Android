@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".Second_Screen">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+
+        android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:text="Hello, my name is Marzhan and I'm 20 years old. This summer, I'm participating in the Work and Travel program. I'm a third-year student at an international IT university, majoring in Cybersecurity, and I plan to pursue a career in the IT field because I have a lot of experience in this area.
+In addition to my studies, I've tried myself in various professions: I worked as a cashier in a grocery store for 2 years, as a social media manager for about 3 years, and as a camp counselor.
+I'm a versatile person, so besides work, I have many hobbies, and my main passion since childhood is dancing. I'm passionate about various dance genres, but I particularly enjoy high heels, hip-hop, and waacking. I'm very energetic, so dancing helps me stay fit and keep my body in shape.
+The reason I want to spend my summer in America is because I love American performers and would like to attend their concerts! I've also watched many series and movies where I've always been amazed by the beauty of big cities. I really want to see them in person!
+As for my soft and hard skills:
+I have highly developed communication skills, I quickly solve problems when they arise, and I integrate well into any team when working collaboratively!
+I will be a glad to become a part of the wonderful cultive to bring and that to get that benefit from this new work to from this new experience in my life." />
+
+
+
+    </ScrollView>
+</LinearLayout>
